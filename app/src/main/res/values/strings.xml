@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assessment_3</string>
+    <string name="Sub_title_fragment_1">Fragment 1</string>
+    <string name="Sub_title_fragment_2">Fragment 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s2000_detail">The S2000 first appeared for the 2000 model year, with the basics as well as the model designation recalling Honda’s roadsters of the ’60s. This one, though, was thoroughly modern, with a 2.0-liter four making 240 horsepower–give some credit to the 9000 rpm redline.
+    The S2000 also received a power top, close-ratio six-speed box and double-wishbone suspension all around. Think of it as a slightly plus-size Miata.
+    The one to watch here–and the one that’s been fetching top dollar–is the S2000 Club Racer, the competition-tuned model released for 2008. They’re easy to spot: factory removable hard top, factory front spoiler, factory rear wing. The CR was also stiffer and lighter, but thanks to the day’s automotive industry crisis, only about 700 were built before the S2000 run ended in 2009. </string>
+    <string name="evo5_detail">The Lancer Evo 5 exudes a distinctive and aggressive exterior design,
+        showcasing its rally-bred heritage. The aerodynamic enhancements,
+        including a large rear wing and front bumper canards, not only contribute to its striking appearance but also
+        optimize airflow for improved performance and stability at high speeds. The stylish yet functional design elements make a bold statement on the road, reflecting the car high-performance capabilities.</string>
+</resources>
